@@ -756,5 +756,17 @@ margin-bottom: 0.75em;
 	margin-top: 0px;
 }
 }
-/* End Logo * 
+/* End Logo */
+.item a{
+	background: #fff;
+}
 
+.item a img{
+	max-width: 200px;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+.toppadding{
+	padding-top: 20px;
+}
